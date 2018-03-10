@@ -1,0 +1,76 @@
+/* start global */
+
+.peta{
+    margin-top: 16px;
+    font-family: 'pacifico'; 
+    font-size: 22px;
+    color:#FFC107;}
+
+.fa-2x {
+    font-size: 3em;
+    color: #ffc107;
+}
+ .text-uppercase .I
+{
+    margin-left:-150px;
+        font-size: 5rem;
+    font-family: italic;
+}
+ .text-uppercase .yao
+{
+    margin-right:1px;
+    font-size:38px;
+}
+ .text-uppercase .aow
+{
+ font-family: 'Roboto', sans-serif;
+   font-size: 49px;
+    color:#FFC107;
+}
+h2 strong .Abdul{
+    color:black;
+}
+.fa-question{
+    font-size:2rem;
+}
+.spacing{
+    color:#ffffff;
+    font-size: 1.3em;
+    line-height: 1.55em;
+    font-weight: 200;
+    letter-spacing: 0.03em;
+    margin-bottom: 18px;
+    font-family: 'EB Garamond', serif;
+}
+.ps{
+    font-size: 1.3em;
+    line-height: 1.55em;
+    font-weight: 200;
+    letter-spacing: 0.03em;
+    margin-bottom: 18px;
+    font-family: 'EB Garamond', serif;
+}
+hr.cosnat{
+    border-color:#3c74ad;
+}
+.text-primary {
+    color: #3c74ad!important;
+}
+.great{
+    font-size: 150%;
+    font-weight: 400;
+}
+.hire{
+    color: #fff;
+    font-family: 'Karma', serif;
+}
+.fa-linkedin {
+    font-size: 1.3rem;
+    background-color: #3c74ad;
+    color: #ffffff;
+    padding: 4px;
+    border-radius: 10px;
+    margin-right: 3px;}
+.som{
+    margin-bottom: 5px;
+}
